@@ -30,10 +30,7 @@ I am currently a PhD student at Colorado School of Mines, where my research focu
 
 You can reach me at [joseph_ruggiero@mines.edu](mailto:joseph_ruggiero@mines.edu).
 
-<div style="position: relative; text-align: center;">
-  <img src="/assets/beeg_iceberg.jpg" alt="Banner" style="width: 100%;">
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-             color: white; font-size: 3em; background-color: rgba(0, 0, 0, 0.5); padding: 10px;">
-  </h1>
+<div style="margin-top: 40px;">
+  <img src="/assets/beeg_iceberg.jpg" alt="Banner" style="width: 100%; display: block;">
 </div>
 
