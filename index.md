@@ -9,7 +9,7 @@ I'm Joseph Ruggiero. This is my personal website built using GitHub Pages and Je
 
 ## About Me
 
-(Write a short bio here.)
+Write a short bio here.
 
 ## Projects
 
