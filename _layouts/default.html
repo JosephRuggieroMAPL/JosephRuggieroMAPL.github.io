@@ -16,30 +16,30 @@
     <h1>{{ page.title }}</h1>
   </header>
 
-  <!-- Navbar Section -->
-  <nav>
-    <ul class="navbar">
-      <li><a href="/">Home</a></li>
-      <li><a href="/about">About Me</a></li>
-      <li><a href="/cv">CV</a></li>
-      <li><a href="/projects">Projects</a></li>
-      <li><a href="/sci_blog">Science Blog</a></li>
-      <li><a href="/marine_proxy_menu">Marine Proxy Menu</a></li>
-    </ul>
-  </nav>
+---
+layout: default
+title: Joseph Ruggiero
+---
 
-  <!-- Main Content -->
-  <main>
-    {{ content }}
-  </main>
+<!-- Custom Navbar -->
+<nav>
+  <ul class="navbar">
+    <li><a href="/">Home</a></li>
+    <li><a href="/about">About Me</a></li>
+    <li><a href="/cv">CV</a></li>
+    <li><a href="/projects">Projects</a></li>
+    <li><a href="/sci_blog">Science Blog</a></li>
+    <li><a href="/marine_proxy_menu">Marine Proxy Menu</a></li>
+  </ul>
+</nav>
 
-  <!-- Footer Section -->
-  <footer>
-    <p>© 2025 Joseph Ruggiero</p>
-  </footer>
+<!-- Main Content (Content from your pages will be rendered here) -->
+<main>
+  {{ content }}
+</main>
 
-  <!-- Optional: Include custom JavaScript if needed -->
-  <script src="/assets/js/script.js"></script>
-</body>
-</html>
+<!-- Custom Footer (or use the default footer from Minima) -->
+<footer>
+  <p>© 2025 Joseph Ruggiero</p>
+</footer>
 
