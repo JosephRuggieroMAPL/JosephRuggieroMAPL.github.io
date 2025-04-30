@@ -3,9 +3,11 @@ layout: default
 title: Joseph Ruggiero
 ---
 
-# Welcome to My Website
+# Contents:
 
-I'm Joseph Ruggiero. I am currently a PhD student 
+[About Me](/about) - Learn more about my background and work!
+[Projects](/projects)
+[Marine Proxy Menu](/marine proxy menu)
 
 ## About Me
 
@@ -13,10 +15,10 @@ I am currently a PhD student at Colorado School of Mines, where my research focu
 
 ## Projects
 
-- Project 1: Quantifying erroneous bulk AIOM age in surface sediments from the Antarctic Continental Shelf
-- Project 2: Examining sedimentary radiocarbon evolution in an unpinned bank, Ross Sea, Southern Ocean
-- Project 3: A marine record of Wilkes Land ice sheet retreat and oceanographic change: constraining radiocarbon evolution and paleo-productivity in the East Antarctic Margin of Antarctica
-- Project 4: The biogeography of the Southern Ocean diatom Fragilariopsis and its applications to paleoceanographic reconstruction
+- **Project 1:** Quantifying erroneous bulk AIOM age in surface sediments from the Antarctic Continental Shelf
+- **Project 2:** Examining sedimentary radiocarbon evolution in an unpinned bank, Ross Sea, Southern Ocean
+- **Project 3:** A marine record of Wilkes Land ice sheet retreat and oceanographic change: constraining radiocarbon evolution and paleo-productivity in the East Antarctic Margin of Antarctica
+- **Project 4:** The biogeography of the Southern Ocean diatom Fragilariopsis and its applications to paleoceanographic reconstruction
 
 ## Contact
 
