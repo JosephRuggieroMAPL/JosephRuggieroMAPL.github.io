@@ -6,7 +6,9 @@ title: Joseph Ruggiero
 # Contents:
 
 - [About Me](/about) - Learn more about my background and work!
+- [CV](/cv)
 - [Projects](/projects)
+- [Science Blog](/sci_blog)
 - [Marine Proxy Menu](/marine_proxy_menu)
 
 ## About Me
