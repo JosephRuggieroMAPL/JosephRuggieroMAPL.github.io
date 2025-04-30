@@ -5,9 +5,9 @@ title: Joseph Ruggiero
 
 # Contents:
 
-[About Me](/about) - Learn more about my background and work!
-[Projects](/projects)
-[Marine Proxy Menu](/marine proxy menu)
+- [About Me](/about) - Learn more about my background and work!
+- [Projects](/projects)
+- [Marine Proxy Menu](/marine proxy menu)
 
 ## About Me
 
