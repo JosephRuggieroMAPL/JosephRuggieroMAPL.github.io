@@ -1,1 +1,7 @@
 theme: minima
+
+nav:
+  - Home: /
+  - About: /about
+  - Projects: /projects
+  - Marine Proxy Menu: /marine_proxy_menu
