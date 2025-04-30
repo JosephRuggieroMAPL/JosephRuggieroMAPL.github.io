@@ -1,8 +1,10 @@
-![Banner](/assets/beeg_iceberg.jpg){: style="width: 100%; display: block;" }
+
 ---
 layout: default
 title: Joseph Ruggiero
 ---
+![Banner](/assets/beeg_iceberg.jpg){: style="width: 100%; display: block;" }
+
 <p style="text-align: right; float: right; margin-left: 20px; margin-bottom: 10px;">
   <img src="/assets/headshot.JPG" alt="Headshot of Joseph Ruggiero" width="400">
 </p>
