@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
+  </head>
+  <body>
+
+    <!-- Header banner image -->
+    <header>
+      <img src="{{ '/assets/beeg_airplane.jpg' | relative_url }}" alt="Banner Image" style="width:100%; height:auto;">
+    </header>
+
+    <main class="page-content">
+      {{ content }}
+    </main>
+
+  </body>
+</html>
