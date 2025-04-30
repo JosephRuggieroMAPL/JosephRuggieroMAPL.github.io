@@ -5,17 +5,19 @@ title: Joseph Ruggiero
 
 # Welcome to My Website
 
-I'm Joseph Ruggiero. This is my personal website built using GitHub Pages and Jekyll.
+I'm Joseph Ruggiero. I am currently a PhD student 
 
 ## About Me
 
-Write a short bio here.
+I am currently a PhD student at Colorado School of Mines, where my research focuses on the changes to the Southern Ocean and the Antarctic Ice Sheet throughout the Holocene.  My work largely revolves around carbon transport around the Southern Ocean, quantifying ice sheet grounding line retreat using radiocarbon methods, and constraining oceanic response to ice sheet retreat. On this website you will find more information about my research, my CV, and the methods I use.  You will also find the fledgeling Marine Proxy Menu, a marine scientists guide to the variety of geochemical tools we use to reconstruct the past ocean.
 
 ## Projects
 
-- Project 1
-- Project 2
+- Project 1: Quantifying erroneous bulk AIOM age in surface sediments from the Antarctic Continental Shelf
+- Project 2: Examining sedimentary radiocarbon evolution in an unpinned bank, Ross Sea, Southern Ocean
+- Project 3: A marine record of Wilkes Land ice sheet retreat and oceanographic change: constraining radiocarbon evolution and paleo-productivity in the East Antarctic Margin of Antarctica
+- Project 4: The biogeography of the Southern Ocean diatom Fragilariopsis and its applications to paleoceanographic reconstruction
 
 ## Contact
 
-You can reach me at [yourname@example.com](mailto:yourname@example.com).
+You can reach me at [joseph_ruggiero@mines.edu](mailto:joseph_ruggiero@mines.edu).
