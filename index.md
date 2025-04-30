@@ -1,3 +1,4 @@
+![Banner](/assets/beeg_airplane.jpg){: style="width: 100%; display: block;" }
 ---
 layout: default
 title: Joseph Ruggiero
