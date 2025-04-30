@@ -1,4 +1,4 @@
-![Banner](/assets/beeg_airplane.JPG){: style="width: 100%; display: block;" }
+![Banner](/assets/beeg_iceberg.JPG){: style="width: 100%; display: block;" }
 ---
 layout: default
 title: Joseph Ruggiero
