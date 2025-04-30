@@ -9,6 +9,7 @@ title: Joseph Ruggiero
     Joseph Ruggiero
   </h1>
 </div>
+
 <p style="text-align: right; float: right; margin-left: 20px; margin-bottom: 10px;">
   <img src="/assets/headshot.JPG" alt="Headshot of Joseph Ruggiero" width="400">
 </p>
