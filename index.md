@@ -2,15 +2,6 @@
 layout: default
 title: Joseph Ruggiero
 ---
-<div class="navbar">
-  <ul>
-    <li><a href="/about">About Me</a></li>
-    <li><a href="/cv">CV</a></li>
-    <li><a href="/projects">Projects</a></li>
-    <li><a href="/sci_blog">Science Blog</a></li>
-    <li><a href="/marine_proxy_menu">Marine Proxy Menu</a></li>
-  </ul>
-</div>
 
 <p style="text-align: right; float: right; margin-left: 20px; margin-bottom: 10px;">
   <img src="/assets/headshot.JPG" alt="Headshot of Joseph Ruggiero" width="400">
