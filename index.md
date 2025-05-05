@@ -14,6 +14,7 @@ title: Joseph Ruggiero
 - [Projects](/projects)
 - [Science Blog](/sci_blog)
 - [Marine Proxy Menu](/marine_proxy_menu)
+- [Code](/code folder) 
 
 ## About Me
 
