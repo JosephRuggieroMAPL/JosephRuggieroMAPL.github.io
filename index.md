@@ -7,9 +7,6 @@ title: Joseph Ruggiero
   <img src="/assets/headshot.JPG" alt="Headshot of Joseph Ruggiero" width="400">
 </p>
 
-# Contents:
-
-- [About Me](/about) - Learn more about my background and work!
 - [CV](/cv)
 - [Projects](/projects)
 - [Science Blog](/sci_blog)
